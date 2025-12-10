@@ -1,0 +1,34 @@
+{
+      // Use IntelliSense to learn about possible attributes.
+      // Hover to view descriptions of existing attributes.
+      // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+      "version": "0.2.0",
+      "configurations": [
+            {
+                  "name": "project_dart",
+                  "cwd": "Class\\project_dart",
+                  "request": "launch",
+                  "type": "dart"
+            },
+            {
+                  "name": "project_dnu",
+                  "cwd": "Class\\project_dnu",
+                  "request": "launch",
+                  "type": "dart"
+            },
+            {
+                  "name": "project_dnu (profile mode)",
+                  "cwd": "Class\\project_dnu",
+                  "request": "launch",
+                  "type": "dart",
+                  "flutterMode": "profile"
+            },
+            {
+                  "name": "project_dnu (release mode)",
+                  "cwd": "Class\\project_dnu",
+                  "request": "launch",
+                  "type": "dart",
+                  "flutterMode": "release"
+            }
+      ]
+}
