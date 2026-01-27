@@ -1,3 +1,18 @@
-[submodule "AnTam-Flutter-Php"]
-	path = AnTam-Flutter-Php
-	url = https://github.com/nguyenthanhtung2k4/AnTam-Flutter-Php/
+[submodule "AnTam-Flutter-NetWebAPI"]
+	path = AnTam-Flutter-NetWebAPI
+	url = https://github.com/nguyenthanhtung2k4/AnTam-Flutter-NetWebAPI/
+	
+[submodule "Flutter_CLB_PICKLEBALL"]
+	path = Flutter_CLB_PICKLEBALL
+	url = https://github.com/nguyenthanhtung2k4/Flutter_CLB_PICKLEBALL
+	
+[submodule "TLU_Ebook_Dart"]
+	path = TLU_Ebook_Dart
+	url = https://github.com/ktzung/TLU_Ebook_Dart/
+
+[submodule "TLU_Ebook_Flutter"]
+	path = TLU_Ebook_Flutter
+	url = https://github.com/ktzung/TLU_Ebook_Flutter/
+
+
+
