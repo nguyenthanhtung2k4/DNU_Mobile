@@ -6,12 +6,12 @@
 	path = Flutter_CLB_PICKLEBALL
 	url = https://github.com/nguyenthanhtung2k4/Flutter_CLB_PICKLEBALL
 	
-[submodule "TLU_Ebook_Dart"]
-	path = TLU_Ebook_Dart
+[submodule "Documents/TLU_Ebook_Dart"]
+	path = Documnets/TLU_Ebook_Dart
 	url = https://github.com/ktzung/TLU_Ebook_Dart/
 
-[submodule "TLU_Ebook_Flutter"]
-	path = TLU_Ebook_Flutter
+[submodule "Documents/TLU_Ebook_Flutter"]
+	path = Documnets/TLU_Ebook_Flutter
 	url = https://github.com/ktzung/TLU_Ebook_Flutter/
 
 
